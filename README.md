@@ -26,7 +26,4 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Donation Amount
 
 ## Images
-![95872](https://user-images.githubusercontent.com/14081432/217957864-2788b8b1-619e-4ab5-9667-4494b89f55ac.png)
-![45674](https://user-images.githubusercontent.com/14081432/217957881-8243bfff-3c8e-434c-aa5d-b9b0a1d8b4b3.png)
-![3765](https://user-images.githubusercontent.com/14081432/217957892-ac034259-1e7a-43ce-91b9-790a1d1963e8.png)
-![000](https://user-images.githubusercontent.com/14081432/217957896-30143a47-16f1-4793-ae92-9cea69fe4b57.png)
+![am03ub9y](https://user-images.githubusercontent.com/14081432/217958575-96671547-aa45-4445-80a9-9a3ebc9fca81.png)
