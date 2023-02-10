@@ -17,7 +17,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 
 ### Twitch
 - Last Follower
-- Last Cheer: User and Amount
+- Last Cheer: User
 - Last Cheer: Amount
 - Last Sub: User
 - Last Sub: Sub Tier
