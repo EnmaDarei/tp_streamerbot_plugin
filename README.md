@@ -13,7 +13,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 ## Stored Events
 ### Plugin
 - Connection Status
-- Number of actions in streamer.bot
+- Number of actions in Streamer.bot
 
 ### Twitch
 - Last Follower
