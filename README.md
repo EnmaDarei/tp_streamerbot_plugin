@@ -25,7 +25,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 
 ### Donations (StreamElements & Streamlabs)
 - User
-- Donation Amount
+- Amount
 
 ## Images
 ![am03ub9y](https://user-images.githubusercontent.com/14081432/217958575-96671547-aa45-4445-80a9-9a3ebc9fca81.png)
