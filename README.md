@@ -6,7 +6,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 ## What does it do
 - Shows the action list in alphabetical order, but also lets you enter actions by Name or ID as well.
 - Automatically update the action list whenever you make changes to it on streamer.bot
-- Automatically try to reconnect to streamer.bot every 10 seconds whenever there's a connection error
+- Automatically tries to reconnect to streamer.bot every 10 seconds whenever there's a connection error
 - Store information about recent events in states you can use for your buttons/events/actions
 ## Stored Events
 ### Plugin
