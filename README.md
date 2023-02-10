@@ -11,11 +11,11 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Automatically tries to reconnect to streamer.bot every 10 seconds whenever there's a connection error.
 - Store information about recent events in states you can use for your buttons/events/actions.
 ## Stored Events
-### Plugin
+### Plugin:
 - Connection Status
 - Number of actions in Streamer.bot
 
-### Twitch
+### Twitch:
 - Last Follower
 - Last Cheer: User
 - Last Cheer: Amount
@@ -30,7 +30,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Raid: Raider
 - Raid: Viewers
 
-### Donations (StreamElements & Streamlabs)
+### Donations (StreamElements & Streamlabs):
 - User
 - Amount
 
