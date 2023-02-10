@@ -4,10 +4,10 @@
 I made this plugin because I was really annoyed by the fact that the other existing one doesn't show the action list in alphabetical order.<br>
 If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/enmadarei)
 ## What does it do
-- The plugin shows the action list in alphabetical order, but also lets you enter actions by Name or ID as well.
-- The plugin will automatically update the action list whenever you make changes to it on streamer.bot
-- The plugin will automatically try to reconnect to streamer.bot every 10 seconds whenever there's a connection error
-- The plugin will store information about recent events in states you can use for your buttons/events/actions
+- Shows the action list in alphabetical order, but also lets you enter actions by Name or ID as well.
+- Automatically update the action list whenever you make changes to it on streamer.bot
+- Automatically try to reconnect to streamer.bot every 10 seconds whenever there's a connection error
+- Store information about recent events in states you can use for your buttons/events/actions
 ## Stored Events
 ### Plugin
 - Connection Status
