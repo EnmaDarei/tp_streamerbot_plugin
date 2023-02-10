@@ -18,10 +18,17 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 ### Twitch
 - Last Follower
 - Last Cheer: User and Amount
-- Last Sub: User and Sub Tier
-- Last Re-Sub: User, Current Streak, Total Months, and Sub Tier
-- Gifted Subs: Gifter and Amount
-- Raid: Raider and Viewers
+- Last Cheer: Amount
+- Last Sub: User
+- Last Sub: Sub Tier
+- Last Re-Sub: User
+- Last Re-Sub: Current Streak
+- Last Re-Sub: Total Months, and Sub Tier
+- Last Re-Sub: Sub Tier
+- Gifted Subs: Gifter
+- Gifted Subs: Amount
+- Raid: Raider
+- Raid: Viewers
 
 ### Donations (StreamElements & Streamlabs)
 - User
