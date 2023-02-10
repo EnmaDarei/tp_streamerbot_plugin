@@ -30,7 +30,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Raid: Raider
 - Raid: Viewers
 
-### Donations (StreamElements & Streamlabs):
+### Donations/Tips (StreamElements & Streamlabs):
 - User
 - Amount
 
