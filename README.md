@@ -1,4 +1,4 @@
-# Enma's Streamer.Bot plugin (Touch Portal)
+# Enma's Streamer.bot plugin (Touch Portal)
 [**[Download]**](https://github.com/EnmaDarei/tp_streamerbot_plugin/releases/latest)
 
 I made this plugin because I was really annoyed by the fact that the other existing one doesn't show the action list in alphabetical order.<br>
