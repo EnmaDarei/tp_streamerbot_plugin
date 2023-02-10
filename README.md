@@ -16,7 +16,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Number of actions in streamer.bot
 
 ### Twitch
-- Last Twitch Follower
+- Last Follower
 - Last Cheer: User and Amount
 - Last Sub: User and Sub Tier
 - Last Re-Sub: User, Current Streak, Total Months, and Sub Tier
