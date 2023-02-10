@@ -23,7 +23,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Last Sub: Sub Tier
 - Last Re-Sub: User
 - Last Re-Sub: Current Streak
-- Last Re-Sub: Total Months, and Sub Tier
+- Last Re-Sub: Total Months
 - Last Re-Sub: Sub Tier
 - Gifted Subs: Gifter
 - Gifted Subs: Amount
