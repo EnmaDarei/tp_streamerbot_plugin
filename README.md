@@ -37,3 +37,5 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 
 ## Images
 ![am03ub9y](https://user-images.githubusercontent.com/14081432/217958575-96671547-aa45-4445-80a9-9a3ebc9fca81.png)
+![image](https://github.com/EnmaDarei/tp_streamerbot_plugin/assets/14081432/8d900315-e92e-46d7-a914-193ed97da463)
+
