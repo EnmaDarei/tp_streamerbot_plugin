@@ -7,6 +7,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Run action from alphabetized list.
 - Run action by entering its name.
 - Run action by entering its ID.
+- Send `%rawInput%` for the actions.
 - Automatically update the action list whenever you make changes to it on streamer.bot.
 - Automatically tries to reconnect to streamer.bot every 10 seconds whenever there's a connection error.
 - Store information about recent events in states you can use for your buttons/events/actions.
