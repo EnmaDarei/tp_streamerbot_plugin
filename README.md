@@ -7,7 +7,7 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Run action from alphabetized list.
 - Run action by entering its name.
 - Run action by entering its ID.
-- Send `%rawInput%` for the actions.
+- "Advanced" versions of actions let you send arguments with your action as well, you can use values/states for these arguments.
 - Automatically update the action list whenever you make changes to it on streamer.bot.
 - Automatically tries to reconnect to streamer.bot every 10 seconds whenever there's a connection error.
 - Store information about recent events in states you can use for your buttons/events/actions.
@@ -37,4 +37,4 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 
 ## Images
 ![am03ub9y](https://user-images.githubusercontent.com/14081432/217958575-96671547-aa45-4445-80a9-9a3ebc9fca81.png)
-![image](https://github.com/EnmaDarei/tp_streamerbot_plugin/assets/14081432/873ebd6f-bc1a-4cd2-83a9-8f7496d0f393)
+![image](https://github.com/EnmaDarei/tp_streamerbot_plugin/assets/14081432/0598adc2-431c-48ec-9e58-8e4213bc9775)
