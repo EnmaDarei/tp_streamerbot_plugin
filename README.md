@@ -18,6 +18,9 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 
 ### Twitch:
 - Last Follower
+- Last Chatter: Displayname
+- Last Chatter: Username
+- Last Chatter: Message
 - Last Cheer: User
 - Last Cheer: Amount
 - Last Sub: User
@@ -30,6 +33,10 @@ If you find this plugin useful consider [leaving a donation!](https://ko-fi.com/
 - Gifted Subs: Amount
 - Raid: Raider
 - Raid: Viewers
+
+### YouTube:
+- Last Chatter: Username
+- Last Chatter: Message
 
 ### Donations/Tips (StreamElements & Streamlabs):
 - User
