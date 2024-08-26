@@ -38,6 +38,7 @@ Getting started is a breeze! Just follow these steps to unlock enhanced control 
 2. Install in Touch Portal
 3. Configure Streamer.Bot connection settings
 4. Start streaming with newfound control and efficiency!
+   
 ![image](https://github.com/user-attachments/assets/894ea9a6-6eab-46a4-a7ec-24c6577f500b)
 
 ## 📊 Stored States
