@@ -18,6 +18,7 @@ Seamlessly integrate Streamer.Bot with Touch Portal for **unmatched control** an
 
 - **Real-Time Action List Updates**: The action list refreshes instantly when you add/remove/update actions on Streamer.Bot
 - **Stored Information**: Access real-time information about recent events and states and use them for your buttons or as triggers.
+- 
 ![image](https://github.com/user-attachments/assets/4f23f0cf-b3ac-4c5a-869a-448352a88741)
 ![image](https://github.com/user-attachments/assets/9eb3a468-1e75-42e3-8c19-17f6d1bbd812)
 
