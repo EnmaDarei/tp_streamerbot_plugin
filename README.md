@@ -12,6 +12,9 @@ Seamlessly integrate Streamer.Bot with Touch Portal for **unmatched control** an
 > [!TIP]
 > Since this plugin allows you to pass whatever arguments you want, the limit is your imagination (or C# coding skills)! 😉
 
+> [!NOTE]
+> Version 3.0.2 requires Streamer.Bot's HTTP server to be enabled to trigger actions for now
+
 ![image](https://github.com/user-attachments/assets/461ca6a8-4da0-4364-a753-c19520f5a223)
 
 ### ⚡Dynamic Functionality
