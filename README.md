@@ -98,6 +98,7 @@ Stay reactive with these customizable events, ensuring you're always ready for w
 
 ## 💡 Why Choose This Plugin Instead of the Other One?
 
+- **Compatible with the Newest version of Streamer.Bot**
 - **More Stored States & Events**: Track more detailed information for Twitch, YouTube, and donation platforms.
 - **Streamlined and efficient**: Rewritten in Rust for a smaller memory footprint and faster execution.
 - **Continuous Updates**: Built around real user feedback—because it’s the tool I use for my own streams!
