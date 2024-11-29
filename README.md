@@ -39,7 +39,8 @@ Getting started is a breeze! Just follow these steps to unlock enhanced control 
 3. Configure Streamer.Bot connection settings
 4. Start streaming with newfound control and efficiency!
    
-![image](https://github.com/user-attachments/assets/894ea9a6-6eab-46a4-a7ec-24c6577f500b)
+![image](https://github.com/user-attachments/assets/0a97727e-2e14-4247-8eb4-4a03c92bd97f)
+
 
 ## 📊 Stored States
 
